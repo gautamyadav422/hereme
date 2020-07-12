@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948038324127",
+    "firebase_url": "https://hereme-c41e0.firebaseio.com",
+    "project_id": "hereme-c41e0",
+    "storage_bucket": "hereme-c41e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948038324127:android:659e900dc11835f861f7aa",
+        "android_client_info": {
+          "package_name": "com.example.hereme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948038324127-qai1kosmdc15imiv8gb3skr99eno69jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMCen7-x-T4fo7B2RYKJEb10xb5YxUgI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948038324127-qai1kosmdc15imiv8gb3skr99eno69jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
